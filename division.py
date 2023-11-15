@@ -5,6 +5,6 @@ def dividir(a, b):
 
 if __name__ == "__main__":
     try:
-        print( dividir(5, 3))
+        print( dividir(5, 0))
     except ValueError as e:
         print(f"Error: {e}")
