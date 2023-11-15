@@ -1,5 +1,3 @@
-# test_sumapy
-
 import unittest
 from suma import sumar
 
